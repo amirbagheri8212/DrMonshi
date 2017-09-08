@@ -1,0 +1,15 @@
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\SQLite.NET.dll
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Prog.csprojResolveAssemblyReference.cache
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Prog.Form1.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Project.Form2.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Prog.csproj.GenerateResource.Cache
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\Tigen Tech Dr Office Manager.exe.config
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\Tigen Tech Dr Office Manager.exe.manifest
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\Tigen Tech Dr Office Manager.application
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\Tigen Tech Dr Office Manager.exe
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Release\Tigen Tech Dr Office Manager.pdb
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\TigenTechDrOfficeManager.Properties.Resources.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Tigen Tech Dr Office Manager.exe.manifest
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Tigen Tech Dr Office Manager.application
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Tigen Tech Dr Office Manager.exe
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Release\Tigen Tech Dr Office Manager.pdb

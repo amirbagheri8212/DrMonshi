@@ -1,0 +1,10 @@
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Prog.csprojResolveAssemblyReference.cache
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Prog.Form1.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Prog.csproj.GenerateResource.Cache
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Debug\Project.exe.config
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Project.Form2.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Project.Properties.Resources.resources
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Debug\Project.exe
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\bin\Debug\Project.pdb
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Project.exe
+E:\Mom Matab Programs\Manager\Monshi\Prog\Prog\obj\Debug\Project.pdb
